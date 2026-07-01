@@ -2,3 +2,14 @@ p{
     background-color: red;
     background-color: pink;
 }
+
+.Number2{
+    color: blue;
+    font-size: 32px;
+}
+.Number4{
+
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
