@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+
+button{
+font-size: 28px;
+font-family: 'Times New Roman', Helvetica, sans-serif;
+
+}
+
+button.Number1{
+background-color: black;
+color: yellow;
+}
+
+.Number2{
+    background-color: yellow;
+}
+
